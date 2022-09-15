@@ -1,0 +1,22 @@
+.submitTask {
+
+}
+
+.create-task-input {
+
+}
+
+.create-task-container {
+    display: flex;
+    padding: 20px;
+    justify-content: flex-start;
+    align-items: center;
+
+    label {
+        margin-right: 10px;
+    }
+
+    input {
+        margin-right: 10px;
+    }
+}
